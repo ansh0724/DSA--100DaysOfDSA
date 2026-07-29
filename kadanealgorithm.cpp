@@ -25,5 +25,5 @@ int main(){
     int arr[] = {3,-4,5,4,-1,7,-8};
     int sz=7;
 
-    maxSumOfSubsarray(arr,sz);
+    maxSumOfSubsarray(arr,sz);                      
 }
